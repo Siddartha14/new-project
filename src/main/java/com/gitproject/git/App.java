@@ -9,6 +9,10 @@ public class App
 	public void add(String data) {
 		System.out.println("dummy method");
 	}
+	public void sun(){
+		System.out.println("someone");
+		
+	}
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
