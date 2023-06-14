@@ -29,14 +29,3 @@ public class App
     
     
 }
-public void add(){
-shiva	
-}
-
-public void secondchange(){
-}}
-
-public thrid change{
-	
-jdkdjkdj	
-}
