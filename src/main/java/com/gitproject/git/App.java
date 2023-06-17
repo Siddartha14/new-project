@@ -26,17 +26,4 @@ public class App
     public void gii() {
     	System.out.println("jjdshjshsj");
     }
-    
-    
-}
-public void add(){
-shiva	
-}
-
-public void secondchange(){
-}}
-
-public thrid change{
-	
-jdkdjkdj	
-}
+  
